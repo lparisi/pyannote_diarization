@@ -10,7 +10,7 @@ Utilizes NVIDIA CUDA for GPU acceleration when available.
 Quick Start
 Prerequisites
 Docker
-NVIDIA Docker (for CUDA support)
+NVIDIA Docker (for CUDA support) :)
 
 
 ## Build the Docker Image
