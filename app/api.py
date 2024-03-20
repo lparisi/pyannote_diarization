@@ -13,7 +13,6 @@ logger = logging.getLogger(__name__)
 
 app = FastAPI()
 
-HUGGINGFACE_ACCESS_TOKEN = "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"
 TEMP_DIR = "temp_audio_files"
 os.makedirs(TEMP_DIR, exist_ok=True)
 
